@@ -1,6 +1,6 @@
 # Quadratic Equations Solver
 
-[TODO. There will be project description]
+The module includes function get_roots that takes values a, b, c and returns roots of equation.
 
 # Project Goals
 
